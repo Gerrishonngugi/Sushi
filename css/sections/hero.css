@@ -65,3 +65,15 @@
   flex-wrap: wrap;
   gap: 36px;
 }
+.hero-content__order-button {
+  padding: 20px;
+  border-radius: 36px;
+  background: var(--secondary-color);
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
